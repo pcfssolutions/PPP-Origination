@@ -113,7 +113,7 @@ Save Loan Boarding ThirdParty to the Origination Database.
 
 ## Screenshot
 
-![Screenshot](/SaveThirdPartySystem.png?raw=true)
+![Screenshot](/MD Files/SaveThirdPartySystem.png?raw=true)
 # ThirdPartyDocUpload
 
 Upload Files related to Third Party.
