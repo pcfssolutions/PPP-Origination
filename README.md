@@ -111,9 +111,6 @@ Save Loan Boarding ThirdParty to the Origination Database.
 **True** : Successfully inserted
 **False** : Insertion not successful
 
-## Screenshot
-
-![Screenshot](/MD Files/SaveThirdPartySystem.png?raw=true)
 # ThirdPartyDocUpload
 
 Upload Files related to Third Party.
@@ -143,9 +140,6 @@ Upload Files related to Third Party.
 **True** : Successfully inserted
 **False** : Insertion not successful
 
-## Screenshot
-
-![Screenshot](/ThirdPartyDocUpload.png?raw=true)
 # ThirdPartySystemClarifications
 
 API to refer from origination system
